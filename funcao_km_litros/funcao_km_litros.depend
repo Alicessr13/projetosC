@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1655947399 source:c:\users\alici\desktop\projetos ciencia da computação\funcao_km_litros\main.c
+	<stdio.h>
+	<stdlib.h>
+	"helper_km_litros.h"
+
+1655947399 c:\users\alici\desktop\projetos ciencia da computação\funcao_km_litros\helper_km_litros.h
+

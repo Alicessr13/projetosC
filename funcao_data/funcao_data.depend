@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1654561518 source:c:\users\alici\documents\teste\funcao_data\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

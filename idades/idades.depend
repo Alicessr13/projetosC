@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1650059055 source:c:\users\alici\desktop\projetos ciencia da computação\idades\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1650059055 source:c:\users\alici\desktop\projetos ciencia da computação\estrutura de dados\c\idades\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

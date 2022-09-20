@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1651954937 source:c:\users\alici\desktop\projetos ciencia da computação\pares_consecutivos\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1654109659 source:c:\users\alici\desktop\projetos ciencia da computação\estrutura de dados\pares_consecutivos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdlib.h>
+

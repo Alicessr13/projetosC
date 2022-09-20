@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1655945789 source:c:\users\alici\desktop\projetos ciencia da computação\funcao_calculadora_simbolos\funcoes_calculadora simbolos.c
+	"helper_calculadora_simbolos.h"
+
+1655945789 c:\users\alici\desktop\projetos ciencia da computação\funcao_calculadora_simbolos\helper_calculadora_simbolos.h
+
+1655945681 source:c:\users\alici\desktop\projetos ciencia da computação\funcao_calculadora_simbolos\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1655485650 source:c:\users\alici\desktop\projetos ciencia da computação\funcao_hora_minutos_para_segundos\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1655944411 source:c:\users\alici\desktop\projetos ciencia da computação\funcao_soma_algarismos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

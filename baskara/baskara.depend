@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1650072922 source:c:\users\alici\desktop\projetos ciencia da computação\baskara\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

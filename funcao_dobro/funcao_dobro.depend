@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1654558434 source:c:\users\alici\documents\teste\funcao_dobro\main.c
+	<stdio.h>
+	<stdlib.h>
+

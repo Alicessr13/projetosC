@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1654790937 source:c:\users\alici\desktop\projetos ciencia da computação\calculadora_alice\main.c
+	<stdio.h>
+	<stdlib.h>
+	"helper_alice.h"
+
+1654790189 c:\users\alici\desktop\projetos ciencia da computação\calculadora_alice\helper_alice.h
+
+1654790189 source:c:\users\alici\desktop\projetos ciencia da computação\calculadora_alice\codigos_alice.c
+	"helper_alice.h"
+

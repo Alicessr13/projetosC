@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1647712511 source:c:\users\alici\desktop\projetos ciencia da computação\raizquadrada\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

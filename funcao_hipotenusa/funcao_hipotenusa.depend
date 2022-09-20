@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1655493119 source:c:\users\alici\desktop\projetos ciencia da computação\funcao_hipotenusa\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

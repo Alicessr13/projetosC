@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1654562768 source:c:\users\alici\documents\teste\funcao_positivo_negativo\main.c
+	<stdio.h>
+	<stdlib.h>
+

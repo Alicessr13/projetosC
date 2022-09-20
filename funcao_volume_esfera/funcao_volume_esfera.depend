@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1655483871 source:c:\users\alici\desktop\projetos ciencia da computação\funcao_volume_esfera\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1655481327 source:c:\users\alici\desktop\projetos ciencia da computação\funcao_quadrado_perfeito\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
